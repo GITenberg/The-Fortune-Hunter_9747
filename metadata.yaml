@@ -1,0 +1,37 @@
+_repo: The-Fortune-Hunter_9747
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brown, Arthur William
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '6352'
+    url: http://www.gutenberg.org/2009/agents/6352
+creator:
+  authors:
+  - agent_name: Smith, Winchell
+    birthdate: 1871
+    deathdate: &id001 1933
+    gutenberg_agent_id: '36294'
+    url: http://www.gutenberg.org/2009/agents/36294
+  - agent_name: Vance, Louis Joseph
+    birthdate: 1879
+    deathdate: *id001
+    gutenberg_agent_id: '2870'
+    url: http://www.gutenberg.org/2009/agents/2870
+description: The plot of the story is taken from the comedy of the same title by Mr.
+  Winchell Smith.
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Fortune Hunter
+url: http://www.gutenberg.org/ebooks/9747
